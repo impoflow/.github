@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Welcome to AutoGram ;)</h1>
 
 <!--
 
