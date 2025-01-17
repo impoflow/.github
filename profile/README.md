@@ -14,20 +14,17 @@ We specialize in building tools that address real-world challenges in software d
 
 Here’s a glimpse at some of our most exciting repositories:
 
-### **[GitHub Scrapper](https://github.com/impoflow/github-scrapper)**  
-A powerful, Dockerized tool for scraping repositories from GitHub and populating S3 buckets. Perfect for simulating user activity, creating datasets, or testing pipelines.  
+### **[Crawler Service](https://github.com/impoflow/github-scrapper)**  
+A Dockerized tool that scrapes repositories from GitHub and uploads them to S3 buckets. Ideal for populating Data Lakes, simulating user activity, and creating real-world datasets for testing or analysis.
 
-### **[Orchestration Service](https://github.com/impoflow/orchestration-service)**  
-A robust service to manage workflows for processing and validating large data sets. Integrates seamlessly with S3, Lambda, and databases like Neo4j and MongoDB.  
+### **[Orchestration Service](https://github.com/impoflow/mage)**  
+A sophisticated workflow management service for processing and validating large datasets. Seamlessly integrates with S3, AWS Lambda, and graph/document databases like Neo4j and MongoDB, ensuring efficient data handling.
 
-### **[Crawler Service](https://github.com/impoflow/crawler-service)**  
-Scrapes real-world projects and uploads them to a Data Lake, simulating real user activity for large-scale testing and system evaluation.  
+### **[IaaC](https://github.com/impoflow/terraform)**  
+Infrastructure as Code (IaaC) templates built with Terraform to provision and manage cloud resources. Streamlines deployments, ensures consistency, and supports scalable infrastructure configurations.
 
-### **[Report Service](https://github.com/impoflow/report-service)**  
-Leverages Prometheus to monitor system performance and generate actionable insights. Scalable, secure, and integrated with Docker for deployment ease.  
-
-### **[Testing Service](https://github.com/impoflow/testing-service)**  
-A performance testing framework built on Locust. Simulates user traffic to assess system scalability and robustness under stress.  
+### **[Web Service](https://github.com/impoflow/webservice)**  
+The backbone of our system, this service handles user requests, connects with backend Lambda functions, and provides secure and scalable communication with databases like Neo4j.
 
 ---
 
